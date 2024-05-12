@@ -127,6 +127,8 @@
       <path value="$PROJECT_DIR$/Lr/vendor/laravel/pint" />
       <path value="$PROJECT_DIR$/Lr/vendor/laravel/framework" />
       <path value="$PROJECT_DIR$/Lr/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Lr/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/Lr/vendor/maximebf/debugbar" />
     </include_path>
   </component>
 </project>
